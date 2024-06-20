@@ -1,5 +1,3 @@
-Sure, here are the detailed steps to install MongoDB on a Windows machine:
-
 ### Step 1: Download MongoDB
 1. **Visit the MongoDB Download Page:**
    - Go to the official MongoDB download page: [MongoDB Download Center](https://www.mongodb.com/try/download/community).
