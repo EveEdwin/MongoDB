@@ -35,7 +35,6 @@ Without `$set`, the update operation will replace the entire document with the n
 db.books.update({ title: "The Great Gatsby" }, { author: "F. Scott Fitzgerald" });
 ```
 This operation will replace the entire document where the title is "The Great Gatsby" with a new document that only contains the `author` field.
-
 ### `updateMany()`
 Similarly, without `$set`, `updateMany()` will replace the entire document for all matching documents. For example:
 ```javascript
